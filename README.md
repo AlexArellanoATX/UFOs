@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-This project was undertaken to build a dynamic webpage that allows users to find information on UFO sightings and allow users to filter data about the UFO sightings based on their input to the site. The first iteration of the UFO sighting site allowed users to filter their search results only by the date of the sighting.  As an extension to the original website built, we built additional functionality into the website which allows users to filter by the city, state, and country where the sightings took place, as well as by the shape of the reported sighting. We used JavaScript as well as HTML and CSS to code the original website and build the functionality for rendering the information about the website and the the dataset of UFO sightings on the site in table format. Using D3's event listener to detect when a user inputs
+This project was undertaken to build a dynamic webpage that allows users to find information on UFO sightings and allow users to filter data about the UFO sightings based on their input to the site. The first iteration of the UFO sighting site allowed users to filter their search results only by the date of the sighting.  As an extension to the original website built, we built additional functionality into the website which allows users to filter by the city, state, and country where the sightings took place, as well as by the shape of the reported sighting. We used JavaScript as well as HTML and CSS to code the original website and build the functionality for rendering the information about the website and the the dataset of UFO sightings on the site in table format. 
 
 ### Resources
 
